@@ -1,6 +1,3 @@
-import jdk.jfr.Event;
-
-import javax.swing.*;
 import java.awt.*;
 
 public class Main {
